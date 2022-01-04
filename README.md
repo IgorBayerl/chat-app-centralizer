@@ -1,6 +1,8 @@
 # ChatApp-Centralizer
 
 - The goal with tis project is to make a chat app on different frameworks and programing languages, learn with it and be prepared for the market.
+- All the backends and frontends and mobile apps will be compatible with each other
+- I will separate the project in different repositories for better organization
 
 ## FrontEnd
 - React
