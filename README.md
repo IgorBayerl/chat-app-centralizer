@@ -5,7 +5,7 @@
 - I will separate the project in different repositories for better organization
 
 ## FrontEnd
-- React
+- [ReactJS](https://github.com/IgorBayerl/ChatApp-ReactJS)
 - Angular
 - Svelt
 
